@@ -9,7 +9,7 @@ int main()
 		for(int j=1; j<10; j++)
 		{
 			if(j<=i)
-				cout<i<<"*"<<j<<"="<<(i*j)<<" ";
+				cout<<i<<"*"<<j<<"="<<(i*j)<<" ";
 		}
 		cout<<endl;
 	}
